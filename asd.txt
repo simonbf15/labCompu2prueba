@@ -1,1 +1,3 @@
-hola como estas
+lab de compu 2
+ejercicio de git
+branch
